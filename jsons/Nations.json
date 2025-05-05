@@ -30,7 +30,7 @@
 		"outerColor": [237,41,57],
 		"innerColor": [255,215,0],
 		"uniqueName": "Roman Descendants",
-		"uniques": [[+1 Science, +1 Culture] from every specialist [in all cities]],
+		"uniques": ["[+1 Science, +1 Culture] from every specialist [in all cities]"],
 		"cities": [
 		    "Alba Iulia",
 		    "Alexandria",
