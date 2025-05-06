@@ -6,26 +6,26 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Mighty Michael the Brave, unifier of Wallachia, Transylvania, and Moldavia, your name thunders across the Carpathians and Danube as a symbol of courage and unity. In a time of shifting alliances and empires pressing from all sides, you dared to forge a Romanian realm from fractured lands — if only for a fleeting moment. The Ottomans, the Habsburgs, and the Polish crown all sought to claim your people, but your sword carved a path through history, inspiring generations to come.",
+		"startIntroPart2": "In this era of conquest and diplomacy, you must navigate the complexities of a fractured Europe. Your strategic prowess and military acumen will be tested as you defend your borders and expand your influence. The Carpathian Mountains stand as your natural fortress, and the fertile plains of the Danube will nourish your growing empire. Unite your people, forge alliances, and build a legacy that will echo through the centuries. The fate of Romania rests in your hands. Will you rise to the challenge and create an empire that stands the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "The Romanians are awakening and will never bow to foreign tyrants again.",
+		"attacked": "We will never bow to tyrants",
+		"defeated": "We will endure.",
+		"introduction": "Io Michael, by Grace of God the Wallachian Voivode of Transylvanian and Moldavian Lands will hear you.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Let us speak",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralYes": ["Very good.","Of course, yes."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "I have a country to unify what do you want?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateYes": ["You cannot keep the Romanians down forever."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "We will not stay under the tyrant's peace forever.",
+		"tradeRequest": "The riches of 3 countries are at my disposal.",
 
 		"outerColor": [237,41,57],
 		"innerColor": [255,215,0],
@@ -79,6 +79,6 @@
 		    "Campia Turzi",
 		    "Turda"
 		],
-	        "spyNames": ["Gheorge", "Oana", "Maria", "Paul", "Vlad", "Stefan", "Mircea", "Ioana", "Iulia", "Zipacna"]
+	        "spyNames": ["Gheorge", "Oana", "Maria", "Paul", "Vlad", "Stefan", "Mircea", "Ioana", "Iulia"]
 	}
 ]
